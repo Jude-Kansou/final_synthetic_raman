@@ -1,0 +1,2 @@
+python inspect_h5.py --file outputs/synthetic_plastic.h5 --n-spectra 10 --seed 0
+python inspect_h5.py --file outputs/synthetic_ss.h5 --n-spectra 10 --seed 0
