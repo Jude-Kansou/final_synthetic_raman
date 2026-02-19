@@ -1,0 +1,31 @@
+{
+  "file_id": 200,
+  "label": "200_0.21_gL_mAb_450mW_8000ms_5rep",
+  "domain": "plastic",
+  "folder": "plastic",
+  "substance": "mAb",
+  "is_synthetic": true,
+  "is_mixture": false,
+  "target_concentration_gL": 0.21,
+  "source_file_id": 61,
+  "source_concentration_gL": 0.59,
+  "scale_factor": 0.355932,
+  "scaling_method": "Beer-Lambert linear (target / source)",
+  "effects": {
+    "axis_perturbations": true,
+    "peak_shape": true,
+    "ccd_clipped": false,
+    "ccd_mode": null,
+    "noise_std": 5.0
+  },
+  "peak_intensity": 7658.85,
+  "mean_intensity": 332.67,
+  "wavenumber_points": 1024,
+  "Laser Power mW": "450.0",
+  "Integration Time": "8000",
+  "Scan Averaging": "5",
+  "Pixel Count": "1024",
+  "seed": 2226,
+  "generated_at": "2026-02-15T16:34:37.176035",
+  "generator": "generate_scaled_mab.py"
+}

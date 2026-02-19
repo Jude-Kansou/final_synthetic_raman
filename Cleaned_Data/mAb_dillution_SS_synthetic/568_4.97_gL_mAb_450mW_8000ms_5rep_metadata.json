@@ -1,0 +1,31 @@
+{
+  "file_id": 568,
+  "label": "568_4.97_gL_mAb_450mW_8000ms_5rep",
+  "domain": "stainless",
+  "folder": "SS",
+  "substance": "mAb",
+  "is_synthetic": true,
+  "is_mixture": false,
+  "target_concentration_gL": 4.97,
+  "source_file_id": 98,
+  "source_concentration_gL": 4.73,
+  "scale_factor": 1.05074,
+  "scaling_method": "Beer-Lambert linear (target / source)",
+  "effects": {
+    "axis_perturbations": true,
+    "peak_shape": true,
+    "ccd_clipped": false,
+    "ccd_mode": null,
+    "noise_std": 5.0
+  },
+  "peak_intensity": 2215.38,
+  "mean_intensity": 365.21,
+  "wavenumber_points": 1024,
+  "Laser Power mW": "450.0",
+  "Integration Time": "8000",
+  "Scan Averaging": "5",
+  "Pixel Count": "1024",
+  "seed": 2594,
+  "generated_at": "2026-02-15T16:34:37.736759",
+  "generator": "generate_scaled_mab.py"
+}
