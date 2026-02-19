@@ -1,5 +1,3 @@
-Cleaned_Data/
-Generator/cache/
-Generator/outputs/
-*.h5
-*.npy
+__pycache__/
+*.pyc
+.DS_Store

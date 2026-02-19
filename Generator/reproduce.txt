@@ -1,0 +1,3 @@
+python main.py --build-cache
+python main.py --generate --target plastic --with-labels --fwhm 10 --alpha 0.10 --beta 0.05 --shift-std 2.5 --warp-strength 0.003
+python main.py --generate --target ss --with-labels --fwhm 10 --alpha 0.10 --beta 0.05 --shift-std 2.5 --warp-strength 0.003

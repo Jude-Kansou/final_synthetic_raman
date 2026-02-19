@@ -1,0 +1,2 @@
+python train_pls.py --file outputs/synthetic_plastic.h5 --components 20
+python train_pls.py --file outputs/synthetic_ss.h5 --components 20
